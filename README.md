@@ -21,6 +21,7 @@ The audit covers:
 ## Supporting Materials
 This repository includes the following documents:
 - **Scope, Goals, and Risk Assessment Report** – A detailed analysis of security risks.
+- **Control categories** - Classifies security controls and their types to assess Botium Toys' security posture.
 - **Controls and Compliance Checklist** – A structured assessment based on security best practices.
 
 
